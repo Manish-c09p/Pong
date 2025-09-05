@@ -16,14 +16,18 @@ This project helped me practice **game logic, loops, and collision detection** w
 1. Clone this repository:
    ```bash
    git clone https://github.com/Manish-c09p/Pong.git
-2. Navigate to the project folder:
+2. Clone this repository:
    cd Pong
-3. Compile and run:
+
+3. Clone this repository:
    g++ pong.cpp -o pong
-./pong
 
-##Learning Outcome:
+4. Run the Game:
+   ./pong
 
-Improved my understanding of loops and conditions.
-Practiced implementing basic game mechanics.
-Learned debugging techniques in C++
+## Learning Outcome
+
+- Implementing game loops and collision detection
+- Applying conditions for scoring and paddle control
+- Basics of structuring a C++ project
+- Debugging logical and runtime errors in small-scale projects
